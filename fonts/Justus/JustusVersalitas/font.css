@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'JustusVersalitas';
+	src: url('./JustusVersalitas.eot');
+	src: local('JustusVersalitas'), url('./JustusVersalitas.woff') format('woff'), url('./JustusVersalitas.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_4076">Text with this font applied</p> */
+.fontsforweb_fontid_4076 {
+	font-family: 'JustusVersalitas' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */

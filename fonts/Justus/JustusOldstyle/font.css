@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'JustusOldstyle';
+	src: url('./JustusOldstyle.eot');
+	src: local('JustusOldstyle'), url('./JustusOldstyle.woff') format('woff'), url('./JustusOldstyle.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_6084">Text with this font applied</p> */
+.fontsforweb_fontid_6084 {
+	font-family: 'JustusOldstyle' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */

@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'JustusItalic';
+	src: url('./JustusItalic.eot');
+	src: local('JustusItalic'), url('./JustusItalic.woff') format('woff'), url('./JustusItalic.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_4075">Text with this font applied</p> */
+.fontsforweb_fontid_4075 {
+	font-family: 'JustusItalic' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */
