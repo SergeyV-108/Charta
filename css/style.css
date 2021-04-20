@@ -189,7 +189,12 @@ h6 {
 }
 
 .header__logo {
-  padding-top: 12px;
+  padding-top: 12px;	
+}
+
+.header__logo img {
+  width: 90px;
+  height: 100px;
 }
 
 /* ================== header end ============== */
