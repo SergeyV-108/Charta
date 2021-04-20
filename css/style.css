@@ -93,24 +93,28 @@ h6 {
   src: local("Lovelo Black"), local("Lovelo-Black"), url("../fonts/Lovelo/Lovelo-Black.eot?#iefix") format("embedded-opentype"), url("../fonts/Lovelo/Lovelo-Black.woff2") format("woff2"), url("../fonts/Lovelo/Lovelo-Black.woff") format("woff"), url("../fonts/Lovelo/Lovelo-Black.ttf") format("truetype");
   font-weight: 900;
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
   font-family: "JustusItalic";
   src: url("../fonts/Justus/JustusItalic/JustusItalic.eot");
   src: local("JustusItalic"), url("../fonts/Justus/JustusItalic/JustusItalic.woff") format("woff"), url("../fonts/Justus/JustusItalic/JustusItalic.ttf") format("truetype");
+  font-display: swap;
 }
 
 @font-face {
   font-family: "JustusOldstyle";
   src: url("../fonts/Justus/JustusOldstyle/JustusOldstyle.eot");
   src: local("JustusOldstyle"), url("../fonts/Justus/JustusOldstyle/JustusOldstyle.woff") format("woff"), url("../fonts/Justus/JustusOldstyle/JustusOldstyle.ttf") format("truetype");
+  font-display: swap;
 }
 
 @font-face {
   font-family: "JustusVersalitas";
   src: url("../fonts/Justus/JustusVersalitas/JustusVersalitas.eot");
   src: local("JustusVersalitas"), url("../fonts/Justus/JustusVersalitas/JustusVersalitas.woff") format("woff"), url("../fonts/Justus/JustusVersalitas/JustusVersalitas.ttf") format("truetype");
+  font-display: swap;
 }
 
 /* ================================================ */
