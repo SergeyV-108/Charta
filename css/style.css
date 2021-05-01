@@ -213,7 +213,13 @@ h6 {
   background-image: url(../image/page/bg_sections/port_01.png);
   background-repeat: no-repeat;
   background-position: center;
-  background-size: auto;
+  background-size: auto 100%;
+}
+
+@media (min-width: 851px) {
+ .page__intro {
+   background-size: auto;
+  }
 }
 
 .page__works {
@@ -222,12 +228,13 @@ h6 {
   background-image: url(../image/page/bg_sections/port_02.png);
   background-repeat: no-repeat;
   background-position: center;
-  background-size: auto;
+  background-size: auto 100%;
 }
 
 @media (min-width: 851px) {
   .page__works {
     height: 470px;
+    background-size: auto;
   }
 }
 
@@ -237,12 +244,13 @@ h6 {
   background-image: url(../image/page/bg_sections/port_03.png);
   background-repeat: no-repeat;
   background-position: center;
-  background-size: auto;
+  background-size: auto 100%;
 }
 
 @media (min-width: 851px) {
   .page__about {
     height: 452px;
+    background-size: auto;
   }
 }
 
