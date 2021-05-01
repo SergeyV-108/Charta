@@ -209,11 +209,11 @@ h6 {
 
 .page__intro {
   min-height: 481px;
-  padding: 50px 0 40px;
+  padding: 50px 0 0 0;
   background-image: url(../image/page/bg_sections/port_01.png);
   background-repeat: no-repeat;
   background-position: center;
-  background-size: auto 100%;
+  background-size: auto;
 }
 
 .page__works {
@@ -222,7 +222,7 @@ h6 {
   background-image: url(../image/page/bg_sections/port_02.png);
   background-repeat: no-repeat;
   background-position: center;
-  background-size: auto 100%;
+  background-size: auto;
 }
 
 @media (min-width: 851px) {
@@ -237,7 +237,7 @@ h6 {
   background-image: url(../image/page/bg_sections/port_03.png);
   background-repeat: no-repeat;
   background-position: center;
-  background-size: auto 100%;
+  background-size: auto;
 }
 
 @media (min-width: 851px) {
